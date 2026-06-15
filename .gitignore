@@ -5,6 +5,12 @@ __pycache__/
 venv/
 .ipynb_checkpoints/
 
+# Node / JS
+node_modules/
+.env
+.env.local
+npm-debug.log*
+
 # Editors / IDEs
 .vscode/
 .idea/

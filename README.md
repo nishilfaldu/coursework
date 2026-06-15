@@ -21,6 +21,7 @@ project keeps its own README with context and run instructions.
 | Data Visualization | [datavis-tv-time](data-visualization/datavis-tv-time) | D3 dashboard exploring the complete dialogue of *Frasier* — word clouds, charts, and a conversation arc |
 | Data Visualization | [health-data-visualization](data-visualization/health-data-visualization) | Next.js + D3 dashboard comparing US county health factors across linked maps, scatter, and histogram |
 | Data Visualization | [visualization-critique-website](data-visualization/visualization-critique-website) | A Next.js site critiquing the Selfiecity data visualization in detail |
+| Cloud | [dialogflow-chatbot](cloud/dialogflow-chatbot) | A Dialogflow chatbot with a Node.js webhook, deployed to Google Cloud Functions |
 
 *More projects are being cleaned up and added here over time.*
 
@@ -30,6 +31,7 @@ project keeps its own README with context and run instructions.
 coursework/
 ├── security/            # cryptography, exploitation, systems security
 ├── devops/              # CI/CD, build pipelines, automation
+├── cloud/               # cloud services, serverless, managed APIs
 ├── data-visualization/  # interactive data viz projects
 ├── systems/             # low-level / systems programming
 ├── algorithms/          # data structures and algorithms
