@@ -1,0 +1,10 @@
+# Vendored libraries — leave untouched
+js/d3.v6.min.js
+js/leaflet.js
+js/leaflet.js.map
+js/leaflet-areaselect.js
+css/leaflet.css
+css/leaflet-areaselect.css
+css/output.css
+# Data
+data/
