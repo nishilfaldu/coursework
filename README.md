@@ -16,6 +16,7 @@ project keeps its own README with context and run instructions.
 | Security | [buffer-overflow-attack](security/buffer-overflow-attack) | Stack buffer overflow that pops a root shell on a Set-UID program (SEED Lab) |
 | Security | [meltdown-attack](security/meltdown-attack) | Meltdown (CVE-2017-5754): leak kernel memory via a cache timing side channel (SEED Lab) |
 | DevOps | [pipelines](devops/pipelines) | Multi-stage CI/CD pipeline (build → lint → test → deploy) with GitHub Actions |
+| Algorithms | [algorithms](algorithms) | 99 data-structures & algorithms problems solved in Python, by difficulty |
 
 *More projects are being cleaned up and added here over time.*
 
