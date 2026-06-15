@@ -13,6 +13,8 @@ project keeps its own README with context and run instructions.
 | Theme | Project | What it is |
 |-------|---------|------------|
 | Security | [aes-encryption](security/aes-encryption) | AES round transformations and key schedule, implemented from scratch in Python |
+| Security | [buffer-overflow-attack](security/buffer-overflow-attack) | Stack buffer overflow that pops a root shell on a Set-UID program (SEED Lab) |
+| Security | [meltdown-attack](security/meltdown-attack) | Meltdown (CVE-2017-5754): leak kernel memory via a cache timing side channel (SEED Lab) |
 
 *More projects are being cleaned up and added here over time.*
 
