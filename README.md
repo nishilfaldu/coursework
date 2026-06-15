@@ -15,6 +15,7 @@ project keeps its own README with context and run instructions.
 | Security | [aes-encryption](security/aes-encryption) | AES round transformations and key schedule, implemented from scratch in Python |
 | Security | [buffer-overflow-attack](security/buffer-overflow-attack) | Stack buffer overflow that pops a root shell on a Set-UID program (SEED Lab) |
 | Security | [meltdown-attack](security/meltdown-attack) | Meltdown (CVE-2017-5754): leak kernel memory via a cache timing side channel (SEED Lab) |
+| DevOps | [pipelines](devops/pipelines) | Multi-stage CI/CD pipeline (build → lint → test → deploy) with GitHub Actions |
 
 *More projects are being cleaned up and added here over time.*
 
@@ -23,6 +24,7 @@ project keeps its own README with context and run instructions.
 ```
 coursework/
 ├── security/            # cryptography, exploitation, systems security
+├── devops/              # CI/CD, build pipelines, automation
 ├── data-visualization/  # interactive data viz projects
 ├── systems/             # low-level / systems programming
 ├── algorithms/          # data structures and algorithms

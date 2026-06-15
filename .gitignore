@@ -10,6 +10,20 @@ venv/
 .idea/
 *.swp
 
+# C / C++ build artifacts
+*.exe
+*.o
+*.obj
+*.ko
+*.out
+
+# Visual Studio build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+.vs/
+
 # OS
 .DS_Store
 Thumbs.db
