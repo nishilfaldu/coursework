@@ -1,0 +1,7 @@
+export const data = `
+The Selfiecity project analyzes a dataset of 3840 selfies from Instagram, focusing on various cities worldwide. Using a mix of qualitative and quantitative methods, including computer vision and machine learning, the project examines different aspects of these selfies. This includes demographic attributes like age and gender, geographic data for mapping urban trends, facial recognition for pose and features, mood analysis, and statistical insights. Through this analysis, Selfiecity aims to uncover trends and insights into selfie culture across different urban landscapes.
+`;
+
+export const users = `
+The Selfiecity project's visualizations cater to a diverse audience, including academics, data scientists, artists, sociologists, educators, policymakers, marketers, and the general public. These users span various disciplines, from sociology to digital humanities, and have distinct interests in understanding cultural phenomena, digital communication trends, and societal behaviors. Data scientists may focus on methodologies, while artists may draw inspiration from cultural variations in selfie-taking. Sociologists and policymakers can gain insights into identity and urban development, while marketers can target campaigns based on demographic preferences. Educators can use the visualizations to teach media literacy, and the curious public can engage with cultural trends. Overall, Selfiecity serves as a versatile resource, bridging complex data analysis with accessible information for a broad spectrum of users.
+`;

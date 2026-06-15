@@ -20,6 +20,7 @@ project keeps its own README with context and run instructions.
 | Data Visualization | [ufo-sightings-visualization](data-visualization/ufo-sightings-visualization) | Interactive D3 + Leaflet dashboard with linked brushing across a map and 5 charts |
 | Data Visualization | [datavis-tv-time](data-visualization/datavis-tv-time) | D3 dashboard exploring the complete dialogue of *Frasier* — word clouds, charts, and a conversation arc |
 | Data Visualization | [health-data-visualization](data-visualization/health-data-visualization) | Next.js + D3 dashboard comparing US county health factors across linked maps, scatter, and histogram |
+| Data Visualization | [visualization-critique-website](data-visualization/visualization-critique-website) | A Next.js site critiquing the Selfiecity data visualization in detail |
 
 *More projects are being cleaned up and added here over time.*
 
