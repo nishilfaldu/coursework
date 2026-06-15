@@ -19,6 +19,7 @@ project keeps its own README with context and run instructions.
 | Algorithms | [algorithms](algorithms) | 99 data-structures & algorithms problems solved in Python, by difficulty |
 | Data Visualization | [ufo-sightings-visualization](data-visualization/ufo-sightings-visualization) | Interactive D3 + Leaflet dashboard with linked brushing across a map and 5 charts |
 | Data Visualization | [datavis-tv-time](data-visualization/datavis-tv-time) | D3 dashboard exploring the complete dialogue of *Frasier* — word clouds, charts, and a conversation arc |
+| Data Visualization | [health-data-visualization](data-visualization/health-data-visualization) | Next.js + D3 dashboard comparing US county health factors across linked maps, scatter, and histogram |
 
 *More projects are being cleaned up and added here over time.*
 
