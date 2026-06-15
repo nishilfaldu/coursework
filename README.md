@@ -18,6 +18,7 @@ project keeps its own README with context and run instructions.
 | DevOps | [pipelines](devops/pipelines) | Multi-stage CI/CD pipeline (build → lint → test → deploy) with GitHub Actions |
 | Algorithms | [algorithms](algorithms) | 99 data-structures & algorithms problems solved in Python, by difficulty |
 | Data Visualization | [ufo-sightings-visualization](data-visualization/ufo-sightings-visualization) | Interactive D3 + Leaflet dashboard with linked brushing across a map and 5 charts |
+| Data Visualization | [datavis-tv-time](data-visualization/datavis-tv-time) | D3 dashboard exploring the complete dialogue of *Frasier* — word clouds, charts, and a conversation arc |
 
 *More projects are being cleaned up and added here over time.*
 

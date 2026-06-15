@@ -1,0 +1,5 @@
+# Vendored library — keep upstream formatting
+js/d3.v6.min.js
+
+# Data (large generated/transcript files)
+data/
